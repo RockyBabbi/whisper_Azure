@@ -1,0 +1,24 @@
+# Audio/Video Transcription with OpenAI Whisper
+
+This project is a Streamlit application that allows users to upload audio or video files for transcription using the OpenAI Whisper API. The application supports various audio formats, including MP3, WAV, M4A, and MP4.
+
+## Features
+
+- Upload audio/video files for transcription
+- Displays the transcribed text from the uploaded file
+- Utilizes Azure OpenAI Service for audio transcription
+
+## Prerequisites
+
+- Python 3.7 or higher
+- Streamlit
+- OpenAI Python client library
+- `python-dotenv` for loading environment variables
+
+## Installation
+
+1. Clone the repository:
+
+   git clone https://github.com/yourusername/repo-name.git
+   cd repo-name
+
